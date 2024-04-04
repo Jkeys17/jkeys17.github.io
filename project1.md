@@ -6,7 +6,7 @@ ChatRoom
 -   **Class: CSCI 332** 
 -   **Grade:TBD** 
 -   **Language(s):Python** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Chat-Code](https://github.com/Jkeys17/Chat-Code.git)  
     (Please [email me](mailto:jlkeys@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
