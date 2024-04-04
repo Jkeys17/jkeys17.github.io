@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Chat Room | CSCI 332](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/chat.jpg)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
