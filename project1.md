@@ -21,20 +21,18 @@ python chat_server.py
 python chat_client.py
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
-
 ## UI Design
 
 This chat application allows users to engage in real-time text communication over a network. It consists of two main components: a server that orchestrates the message flow (see Fig 1) and clients that connect to this server to participate in the chat (see Fig 2). Users can send and receive messages, connect to or disconnect from the chatroom, and see messages from other participants in real-time (see Fig 3).
 
 ![screenshot](images/chat_server.png)  
-Fig 1. The launch screen
+Fig 1. The Server Screen
 
 ![screenshot](images/client-chat.png)  
-Fig 2. Example output after input is processed.
+Fig 2. Example output after input by client.
 
 ![screenshot](images/two-chat.png)  
-Fig 3. Feedback when an error occurs.
+Fig 3.  Example output after input by client.
 
 ## 3. Additional Considerations
 
