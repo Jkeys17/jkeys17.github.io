@@ -27,13 +27,13 @@ If the programming language does not require compilation, the update the heading
 
 This chat application allows users to engage in real-time text communication over a network. It consists of two main components: a server that orchestrates the message flow (see Fig 1) and clients that connect to this server to participate in the chat (see Fig 2). Users can send and receive messages, connect to or disconnect from the chatroom, and see messages from other participants in real-time (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/chat_server.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/client-chat.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/two-chat.png)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
