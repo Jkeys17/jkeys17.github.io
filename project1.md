@@ -1,21 +1,24 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+ChatRoom
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI 332** 
+-   **Grade:TBD** 
+-   **Language(s):Python** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:jlkeys@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The main part of our project is building a chatroom with Python. This digital area is meant to let people talk to each other in real time, creating a lively place to share thoughts and have conversations. Using Python's powerful tools, we've built a platform that not only puts user-friendliness and accessibility first, but also makes sure that communication is safe and effective. Additionally, this project shows our dedication to using technology to connect people, no matter where they live, and it also shows how well Python can be used to build strong online groups.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+In a terminal run:
+python chat_server.py
+python chat_client.py
+
 
 ```bash
 cd ./project
