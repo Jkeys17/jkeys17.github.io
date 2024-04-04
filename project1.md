@@ -15,14 +15,10 @@ The main part of our project is building a chatroom with Python. This digital ar
 
 ## How to compile and run the program
 
-In a terminal run:
-python chat_server.py
-python chat_client.py
-
-
 ```bash
 cd ./project
-python setup.py
+python chat_server.py
+python chat_client.py
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
