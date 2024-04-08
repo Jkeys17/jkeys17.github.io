@@ -1,22 +1,19 @@
-# Web Scraping Project: Fake Job Listings
+# Chatroom Application
 
-## Overview
-This project involves writing a Python script to scrape fake job listings from a sample website. We use the `requests` library to fetch webpage content and `BeautifulSoup` from `bs4` to parse and extract job listing information.
+This chatroom application enables real-time text communication between users over a network. It consists of a server component that manages connections and message broadcasts, and a client component through which users send and receive messages.
 
-## Setup
-- Python 3.x
-- Libraries: `requests`, `beautifulsoup4`
+## Getting Started
 
-## Usage
-Run the script to scrape job listings from `https://realpython.github.io/fake-jobs/`. The script extracts titles, companies, and locations of the listings and prints them to the console.
+### Prerequisites
 
-## Code Snippet
-```python
-# Sample code snippet for fetching and parsing content
-import requests
-from bs4 import BeautifulSoup
+- Python 3.x installed on your machine.
 
-URL = "https://realpython.github.io/fake-jobs/"
-response = requests.get(URL)
-soup = BeautifulSoup(response.content, 'html.parser')
+### Installation
+
+To get started with the chatroom application, follow these steps:
+
+1. **Clone the repository or download the source code:**
+   
+   ```bash
+   git clone https://your-repository-url.git
 
