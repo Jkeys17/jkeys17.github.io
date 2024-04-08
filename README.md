@@ -49,7 +49,7 @@ python chat_client.py
 ```
 After connecting, you can start typing messages. Press Enter to send each message.
 
-###User Interaction
+### User Interaction
 
 Sending Messages: Type your message and press Enter to send. Your message will be visible to all connected clients.
 Receiving Messages: Incoming messages from other clients will automatically be displayed in your terminal.
