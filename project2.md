@@ -23,7 +23,7 @@ python Webscraping.py
 
 ## UI Design
 
-This chat application allows users to engage in real-time text communication over a network. It consists of two main components: a server that orchestrates the message flow (see Fig 1) and clients that connect to this server to participate in the chat (see Fig 2). Users can send and receive messages, connect to or disconnect from the chatroom, and see messages from other participants in real-time (see Fig 3).
+The program allows users to input URLs of static websites from which they wish to scrape data. Users can specify the type of data to collect, such as job listings from a job board. The program then fetches the HTML content, parses and extracts the specified information using Beautiful Soup, and displays or saves the extracted data for the user's review or further processing. This user interaction is integral to guiding the program on what data to collect and from where. 
 
 ![screenshot](images/chat_server.png)  
 Fig 1. The Server Screen
