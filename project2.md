@@ -28,7 +28,7 @@ The program allows users to input URLs of static websites from which they wish t
 ![screenshot](images/small_url.png)  
 Fig 1. URL of Website to scrape.
 
-![screenshot](images/large_url.png)  
+![screenshot](images/job_listings.png)  
 Fig 2. Example output after input by client.
 
 ![screenshot](images/two-chat.png)  
