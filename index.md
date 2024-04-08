@@ -21,10 +21,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Copying Code](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 301**  
+-   **Grade:100**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
