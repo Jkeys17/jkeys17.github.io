@@ -13,33 +13,40 @@ This chatroom application enables real-time text communication between users ove
 To get started with the chatroom application, follow these steps:
 
 1. **Clone the repository or download the source code:**
-   
-   ```bash
-   git clone https://your-repository-url.git
-Or download and extract the ZIP archive.
-
-Navigate to the project directory:
 
     ```bash
-   git clone https://your-repository-url.git
+    git clone https://your-repository-url.git
+    ```
 
-Running the Server
+    Or download and extract the ZIP archive.
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd path/to/chatroom
+    ```
+
+### Running the Server
+
 To start the server, open a terminal or command prompt in the project directory and execute:
 
-    ```bash
-   python chat_server.py
+```bash
+python chat_server.py
+```
 You should see a message indicating that the chat server has started and is listening for connections.
 
 Connecting as a Client
 To connect to the server as a client:
 
 Open another terminal or command prompt window.
+
 Navigate to the project directory.
 
 Run:
 
-    ```bash
-   python chat_client.py
+```bash
+python chat_client.py
+```
 After connecting, you can start typing messages. Press Enter to send each message.
 
 User Interaction
@@ -48,4 +55,3 @@ Receiving Messages: Incoming messages from other clients will automatically be d
 Disconnecting: Close the client window or terminate the process to disconnect from the chatroom.
 Contributing
 Contributions to improve the chatroom application are welcome. Please follow the standard fork-branch-pull request workflow.
-
