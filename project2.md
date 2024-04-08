@@ -29,7 +29,7 @@ The program allows users to input URLs of static websites from which they wish t
 Fig 1. URL of Website to scrape.
 
 ![screenshot](images/job_criteria.png)  
-Fig 2. List of Jobs that match criteria.
+Fig 2. Change the job the webscraper searches.
 
 ![screenshot](images/job_listings.png)  
 Fig 3.  List of Jobs that match criteria.
