@@ -16,31 +16,30 @@ To get started with the chatroom application, follow these steps:
    
    ```bash
    git clone https://your-repository-url.git
-
-   Or download and extract the ZIP archive.
+Or download and extract the ZIP archive.
 
 Navigate to the project directory:
 
-```bash
-cd path/to/chatroom
-Running the Server
-To start the server, open a terminal or command prompt in the project directory and execute: ```
+    ```bash
+   cd path/to/chatroom
 
-```bash
-python chat_server.py
+Running the Server
+To start the server, open a terminal or command prompt in the project directory and execute:
+
+    ```bash
+   python chat_server.py
 You should see a message indicating that the chat server has started and is listening for connections.
 
 Connecting as a Client
 To connect to the server as a client:
 
 Open another terminal or command prompt window.
-
 Navigate to the project directory.
 
 Run:
 
-```bash
-python chat_client.py
+    ```bash
+   python chat_client.py
 After connecting, you can start typing messages. Press Enter to send each message.
 
 User Interaction
