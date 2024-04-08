@@ -16,6 +16,7 @@ The main part of our project is building a chatroom with Python. This digital ar
 ## How to compile and run the program
 
 ```bash
+save the two python files.
 cd ./project
 python chat_server.py
 python chat_client.py
