@@ -21,7 +21,7 @@ Or download and extract the ZIP archive.
 Navigate to the project directory:
 
     ```bash
-   cd path/to/chatroom
+   git clone https://your-repository-url.git
 
 Running the Server
 To start the server, open a terminal or command prompt in the project directory and execute:
