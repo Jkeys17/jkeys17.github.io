@@ -29,10 +29,10 @@ The program allows users to input URLs of static websites from which they wish t
 Fig 1. URL of Website to scrape.
 
 ![screenshot](images/job_listings.png)  
-Fig 2. Example output after input by client.
+Fig 2. List of Jobs that match criteria.
 
-![screenshot](images/two-chat.png)  
-Fig 3.  Example output after input by client.
+![screenshot](images/job_listings.png)  
+Fig 3.  List of Jobs that match criteria.
 
 ## 3. Additional Considerations
 
