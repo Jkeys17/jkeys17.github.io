@@ -11,14 +11,14 @@ Webscraping
 
 ## Project description
 
-The main part of our project is building a chatroom with Python. This digital area is meant to let people talk to each other in real time, creating a lively place to share thoughts and have conversations. Using Python's powerful tools, we've built a platform that not only puts user-friendliness and accessibility first, but also makes sure that communication is safe and effective. Additionally, this project shows our dedication to using technology to connect people, no matter where they live, and it also shows how well Python can be used to build strong online groups.
+Real Python guides you through building a web scraper using Python's Beautiful Soup library. It starts with understanding web scraping basics, reasons for scraping, and its challenges. You'll learn how to inspect your data source, scrape HTML content from a page, and parse HTML code with Beautiful Soup. The project focuses on fetching job offers from a fake Python job site, offering hands-on experience with web scraping techniques and tools necessary for scraping static websites.
 
 ## How to compile and run the program
 
 ```bash
+save the Webscraping.py to your local machine.
 cd ./project
-python chat_server.py
-python chat_client.py
+python Webscraping.py
 ```
 
 ## UI Design
