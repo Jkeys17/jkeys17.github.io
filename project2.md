@@ -25,10 +25,10 @@ python Webscraping.py
 
 The program allows users to input URLs of static websites from which they wish to scrape data (see Fig 1). Users can specify the type of data to collect, such as job listings from a job board (see Fig 2). The program then fetches the HTML content, parses and extracts the specified information using Beautiful Soup, and displays or saves the extracted data for the user's review or further processing (see Fig 3). This user interaction is integral to guiding the program on what data to collect and from where. 
 
-![screenshot](images/chat_server.png)  
+![screenshot](images/small_url.png)  
 Fig 1. The Server Screen
 
-![screenshot](images/client-chat.png)  
+![screenshot](images/large_url.png)  
 Fig 2. Example output after input by client.
 
 ![screenshot](images/two-chat.png)  
