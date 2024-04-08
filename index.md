@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Chat](images/Chat.png)
 
 ---
-### [Project 2 Title Test| CSCI 315](project2)
+### [Job Webscraper| CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/Chat.png)
 
