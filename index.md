@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Job Webscraper | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/job_listing.png)
+![Project 2 Thumbnail Name](images/job_listings.png)
 
 ---
 
