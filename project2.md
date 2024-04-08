@@ -6,7 +6,7 @@ Webscraping
 -   **Class: CSCI 301** 
 -   **Grade:100** 
 -   **Language(s):Python** 
--   **Source Code Repository:** [Webscraping](https://github.com/Jkeys17/CSCI-301-code-repository.git)
+-   **Source Code Repository:** [Webscraping](https://github.com/Jkeys17/Webscrape.git)
     (Please [email me](mailto:jlkeys@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
