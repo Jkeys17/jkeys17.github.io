@@ -24,7 +24,7 @@ Navigate to the project directory:
 ```bash
 cd path/to/chatroom
 Running the Server
-To start the server, open a terminal or command prompt in the project directory and execute:
+To start the server, open a terminal or command prompt in the project directory and execute: ```
 
 ```bash
 python chat_server.py
