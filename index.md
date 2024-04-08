@@ -31,7 +31,7 @@ Presentations
 
 ### [Breach of the Department of Veteran Affairs](/pdf/Breach.pdf)
 
-- **Class:CSCI 405** 
+- **Class: CSCI 405** 
 - **Grade:100**
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
